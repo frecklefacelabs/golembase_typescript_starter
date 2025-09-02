@@ -13,5 +13,5 @@ npm install
 
 to install what's already in the package.json file.
 
-Also note: We've include eslint and prettier in here as well.
+Also note: We've included eslint and prettier in here as well.
 
