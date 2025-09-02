@@ -2,6 +2,9 @@
 
 Tip: If you clone this repo, delete the .git folder that gets created; then type `git init` to create your own repo.
 
+!!! Note "Important"
+    Be sure to change the "type" attribute to "module". This is reqired for GolemDB to compile correctly.
+
 After copying/cloning this repo, run
 
 ```
